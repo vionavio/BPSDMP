@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/karyawan/application/config/routes.php</file>
+            <file>file:/C:/xampp/htdocs/karyawan/application/controllers/Berita.php</file>
+            <file>file:/C:/xampp/htdocs/karyawan/application/models/pengumuman_model.php</file>
+            <file>file:/C:/xampp/htdocs/karyawan/application/controllers/Pengumuman.php</file>
+            <file>file:/C:/xampp/htdocs/karyawan/application/views/includes/header.php</file>
+            <file>file:/C:/xampp/htdocs/karyawan/application/views/berita/list.php</file>
+            <file>file:/C:/xampp/htdocs/karyawan/application/models/berita_model.php</file>
+        </group>
+    </open-files>
+</project-private>

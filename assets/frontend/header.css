@@ -1,0 +1,29 @@
+        
+            .navbar-inverse {
+             background: #013567;
+            }
+            footer{
+                height:28%;
+                line-height:40%;
+                background:#222;
+                color:#777;
+                bottom: 0%;
+                width: 100%;
+            }
+            .e{
+                color: #aaa;
+                width: 20%;
+                padding-right: 2%;
+                padding-left: 2%;
+            }
+             .kartu-block{
+                
+                display: inline-block;
+                border-color: black;
+                width: 430px;
+               padding-right: 5%;
+               height: 500px;
+               text-align: justify;
+            }
+     
+   

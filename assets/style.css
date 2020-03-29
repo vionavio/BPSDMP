@@ -1,0 +1,36 @@
+body{
+	background: #e6e6fa;
+}
+
+.header .date-container{
+	background-color: #013567;
+	color:#fff;
+	padding: 10px;
+}
+
+#img-header{
+	width: 100%;
+}
+
+#main{
+	overflow: hidden;
+}
+#main .main-content{
+	/*background-color: #ffffff;*/
+	min-height: 600px;
+}
+
+#main .sidebar-content{
+	
+}
+
+footer{
+	
+	/*background: #222;*/
+	
+}
+
+#logo-kominfo-footer{
+	width: 100px;
+}
+
